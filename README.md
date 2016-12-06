@@ -1,2 +1,2 @@
 # traffic-server-hosts
-traffic server支持hosts文件的插件
+由于traffic server6.x及之前版本都不支持hosts文件，所以开发了此插件。欢迎大家转载、使用，转载请注明来源 https://github.com/BBD-RD/traffic-server-hosts/ 也欢迎大家交流，liang.li@sinobbd.com。
