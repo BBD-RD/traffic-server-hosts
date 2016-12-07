@@ -62,3 +62,14 @@ make && make install
 #在hosts插件源码目录执行
 make && make install
 ```
+
+## 6. 插件配置
+在**etc/trafficserver/plugin.config**中配置，如下
+```
+ws_hosts.so /path/to/hosts
+```
+可以配置绝对路径，也可以配置相对路径。如果不配置路径，默认使用**/etc/hosts**
+
+## 7. 启动traffic server
+
+# 欢迎使用、转载、交流
