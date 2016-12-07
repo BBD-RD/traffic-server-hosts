@@ -71,5 +71,6 @@ ws_hosts.so /path/to/hosts
 可以配置绝对路径，也可以配置相对路径。如果不配置路径，默认使用**/etc/hosts**
 
 ## 7. 启动traffic server
+不用写了把 ^_^
 
 # 欢迎使用、转载、交流
