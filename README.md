@@ -2,7 +2,7 @@
 遵循**traffic server**的开源协议，欢迎大家转载、使用，请注明来源 https://github.com/BBD-RD/traffic-server-hosts/ 。
 
 # 插件说明
-由于**traffic server6.x**及之前版本都不支持hosts文件，所以开发了此插件，欢迎大家转载、使用。转载、使用请注明来源 https://github.com/BBD-RD/traffic-server-hosts/ 。 也欢迎大家交流、讨论，联系方式见下方。
+欢迎大家转载、使用。转载、使用请注明来源 https://github.com/BBD-RD/traffic-server-hosts/ 。 也欢迎大家交流、讨论，联系方式见下方。
 
 # 联系作者
 liang.li@sinobbd.com 李亮
